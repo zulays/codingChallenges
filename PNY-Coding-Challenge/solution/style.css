@@ -29,7 +29,7 @@ button {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  background: url("https://github.com/zulays/codingChallenges/blob/main/PNY-Coding-Challenge/images/pattern-bg.svg"), url("https://github.com/zulays/codingChallenges/blob/main/PNY-Coding-Challenge/images/pattern-curve.svg");
+  background: url("https://github.com/zulays/codingChallenges/blob/main/PNY-Coding-Challenge/images/pattern-bg.svg?raw=true"), url("https://github.com/zulays/codingChallenges/blob/main/PNY-Coding-Challenge/images/pattern-curve.svg?raw=true");
   background-repeat: no-repeat;
   background-position: top 45% left 98%, bottom 0 left 0, top 32% left 20%;
   margin: 40px;
